@@ -1,63 +1,55 @@
-# My Portfolio
-Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
+![Divyansh Saxena](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
-## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+<img align = "right"  src = "https://api.visitorbadge.io/api/combined?path=divyansh9565&label=GitHub&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper"  />
+
+# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=divyansh956&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=470&lines=I+am+Divyansh+Saxena;I+am+a+Front+End+Developer.;My+Passion+is+Competitive+Programming.+)](https://git.io/typing-svg)<br>
+
+### 🔗 Competitive links : 
+<br>                       
+
+<a href="https://www.codechef.com/users/divyansh966" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh_956" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/divyansh956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="divyansh956" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/divyansh956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1806manan" height="50" width="50" /></a>
+
+<br><br>
 
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+# 🌐 Socials:
 
-## Introduction
-My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
+<a href="https://www.linkedin.com/in/divyansh-saxena-478672224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="divyansh" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="divyansh956" height="30" width="40" /></a>
 
-## Features
-- About Me: An overview of my background, skills, and experiences.
-- Projects: A collection of my notable projects with descriptions, screenshots, and links.
-- Skills: A list of my technical skills and proficiencies.
-- Resume: A link to download my resume.
-- Contact: A form to send me messages or inquiries.
+ 
+<img src="https://github.com/divyansh956/divyansh956/blob/main/img/dev-working_rounded.gif?raw=true" href="https://github.com/divyansh956" alt="CoDiNg RocKs"  width="60%"/> 
 
-## Technologies Used
-- React.js: A JavaScript library for building user interfaces.
-- HTML5 & CSS3: Markup and styling languages for building web pages.
-- JavaScript: A programming language for adding interactivity to web applications.
-- Style-Components: A CSS framework for creating responsive and mobile-first designs.
-- Git: A version control system for tracking changes and collaborating on projects.
-- GitHub Pages: A platform for hosting and deploying web applications.
 
-## Installation
-To run this portfolio locally, follow these steps:
+# 💻 Tech Stack:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Usage
-After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
+# 📊 GitHub Stats:
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to My Portfolio, please follow these steps:
+![](https://github-readme-streak-stats.herokuapp.com/?user=divyansh956&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh956&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-feature`
-5. Open a pull request.
+## 🥇 Holopin Badges From HACKTOBERFEST
+[![@divyansh956's Holopin board](https://holopin.me/divyansh956)](https://holopin.io/@divyansh956)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=divyansh956&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divyansh956&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
